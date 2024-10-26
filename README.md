@@ -1,28 +1,4 @@
-# To-Do Application
 
-## Description
-A simple To-Do application built with Node.js and MongoDB that allows users to add, edit, delete tasks, and mark them as complete or incomplete.
-
-## Features
-- Add new tasks
-- Edit existing tasks
-- Delete tasks
-- Mark tasks as complete/incomplete
-- Store tasks in MongoDB
-
-## Technologies Used
-- **Frontend**: React
-- **Backend**: Node.js, Express
-- **Database**: MongoDB
-- **Libraries**: Mongoose, CORS, Body-Parser
-
-## Getting Started
-
-### Prerequisites
-- Node.js (v14 or higher)
-- MongoDB (either locally installed or through MongoDB Atlas)
-
-### Installation
 # To-Do Application
 
 ## Description
